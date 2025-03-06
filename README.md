@@ -13,21 +13,30 @@ This project detects human emotions from facial images using a Convolutional Neu
 
 📌 Model Architecture
 ✔ 4 Convolutional Layers with ReLU activation
+
 ✔ Batch Normalization & MaxPooling
+
 ✔ Dropout Layers to prevent overfitting
+
 ✔ Dense Layers with Softmax Activation* for multi-class classification
 
 # The model classifies images into 7 emotion categories.
 
 ## 📊 Training & Evaluation
 ✅ Categorical Crossentropy Loss
+
 ✅ Adam Optimizer
+
 ✅ Data Augmentation
+
 ✅ Early Stopping to prevent overfitting
 
 ## 🚀 Technologies Used
 ✔ Python
+
 ✔ TensorFlow / Keras
+
 ✔ OpenCV
+
 ✔ NumPy & Pandas
 ✔ Matplotlib
