@@ -6,6 +6,7 @@ This project detects human emotions from facial images using a Convolutional Neu
 
 # 📂 Dataset
 ✅ Training Data – Facial images categorized into seven emotions (Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise).
+
 ✅ Testing Data – Similar dataset used for model evaluation.
 
 
